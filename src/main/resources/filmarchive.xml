@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filmarchive>
+    <films>
+        <film>
+            <id>5</id>
+            <title>Borderlands</title>
+            <duration>0</duration>
+            <publishedDate>2024-09-06</publishedDate>
+            <description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/12.6.2024_16_27_51_BORDERLANDS_556x800_HRV.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Temeljeno na najprodavanijoj videoigri, ova akcijsko-avanturistička priča prati šaroliku ekipu autsajdera na misiji spašavanja nestale djevojke koja posjeduje ključ nezamislive moći.
+
+U središtu radnje je Lilith, koju tumači Kate Blanchett, ozloglašena odmetnica s tajanstvenom pozadinom. Vraća se na svoj rodni planet, Pandoru, u potrazi za nestalom kćeri negativca iz filma, Atlasa, kojeg glumi Édgar Ramirez.
+
+Tijekom svog putovanja, Lilith se ujedinjuje sa šarolikom grupom saveznika: Rolandom (Kevin Hart), vrhunskim plaćenikom; Tiny Tinom (Ariana Greenblatt), mladom stručnjakinjom za rušenje; Tannis (Jamie Lee Curtis), neko</description>
+            <picturePath>assets/52d98ca6-c9fe-4a17-9699-d462de38db5c.jpg</picturePath>
+        </film>
+    </films>
+</filmarchive>
