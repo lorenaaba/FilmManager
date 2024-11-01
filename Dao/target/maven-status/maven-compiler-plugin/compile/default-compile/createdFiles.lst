@@ -1,0 +1,13 @@
+hr/algebra/enumm/Role.class
+hr/algebra/dal/Repository.class
+hr/algebra/dal/RepositoryFactory.class
+hr/algebra/model/Person.class
+hr/algebra/model/User.class
+hr/algebra/dal/sql/SqlRepository.class
+hr/algebra/model/DateAdapter.class
+hr/algebra/model/FilmArchive.class
+hr/algebra/dal/sql/DataSourceSingleton.class
+hr/algebra/model/PersonTransferable.class
+hr/algebra/dal/login/LoginHandler.class
+hr/algebra/enumm/UserEnum.class
+hr/algebra/model/Film.class

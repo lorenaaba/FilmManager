@@ -1,0 +1,13 @@
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/dal/Repository.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/dal/sql/DataSourceSingleton.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/model/User.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/model/Film.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/dal/sql/SqlRepository.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/model/DateAdapter.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/enumm/UserEnum.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/model/PersonTransferable.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/enumm/Role.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/dal/login/LoginHandler.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/model/FilmArchive.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/dal/RepositoryFactory.java
+/Users/lorenababic/Desktop/Lorena_Babic_projekt/Dao/src/main/java/hr/algebra/model/Person.java
